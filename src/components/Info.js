@@ -9,7 +9,7 @@ function Info() {
             <Contact 
                 name = "Kagiso Modika"
                 position = "Software Engineer"
-                link = "https://kagisomodika.com"
+                link = "https://www.kagisomodika.com"
             />
         </div>
     )
